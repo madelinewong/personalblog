@@ -5,8 +5,14 @@ body {
   height: 400px;
   width: 400px;
   border: 2rem solid #92dbdae5;
-  padding-bottom: 45rem;
+  padding-bottom: 34rem;
   padding-left: 20rem;
-  margin-left: 20rem;
+  margin-left: 18rem;
   background-color: #96eae994;
+}
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 70px;
+  color: #FFFFF0;
+  padding-left: 30rem;
 }
