@@ -1,3 +1,12 @@
 body {
   background-image: url(daisies.jpg)
 }
+.square {
+  height: 400px;
+  width: 400px;
+  border: 2rem solid #92dbdae5;
+  padding-bottom: 45rem;
+  padding-left: 20rem;
+  margin-left: 20rem;
+  background-color: #96eae994;
+}

@@ -6,7 +6,11 @@ class App extends Component {
   render() {
     return (
       <div> 
-        </div> 
+        <p>
+          
+        </p>
+      <div className="square"></div>
+      </div> 
     );
   }
 }
